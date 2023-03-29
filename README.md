@@ -12,7 +12,7 @@ Your further task is to read the medium post here : https://towardsdatascience.c
 
 PS: The above problem can be solved using dockers too and it has the option of using any OS kernel you want too, but its completely isolated from the host unlike virtual environments. If you are more interested, you can search on this topic too!!!
 
-You can see for instructions to install miniconda from the official website:
+You can see for instructions to install miniconda from the official website: https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html
 
 ## Task
 1) Create a conda enviroment with some name. Windows users will need to use the Minconda prompt, Mac and Linux Users can use their terminals.
